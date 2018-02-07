@@ -18,6 +18,7 @@ public class runner {
 		int startValue = 0;
 		int stopValue = 50;
 		recurseEvens(startValue, stopValue);
+		recurseEvens(startValue, stopValue);
 	}
 	/**
 	 * @author zacharycs
